@@ -1,0 +1,4 @@
+inicio
+prueba := 67-33;
+escribir(a,b,c);
+fin
